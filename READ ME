@@ -1,0 +1,9 @@
+Towers of Hanoi game sim. Codecademy project for practice with Stacks.
+In this game, you are given 3 rods and a stack of four disks, each one larger than the last.
+At the start, the disks are stacked in order of size on the leftmost rod.
+Goal: move the 4 stacked disks from leftmost of 3 rods to the rightmost, ending in proper order of size.
+rules:
+1) Only one disk may be moved at a time.
+2) Each move consists of taking the upper disk from one of the stacks and placing it on top of another stack or on an
+empty rod.
+3) No disk may be placed on top of a smaller disk.
